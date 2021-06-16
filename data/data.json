@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "task-1": "Setup",
+        "value": "Docker"
+      },
+      {
+        "task-2": "create",
+        "value": "Dockerfile"
+      },
+      {
+        "task-3": "define",
+        "value": "services in a Compose file"
+      },
+      {
+        "task-4": "build",
+        "value": "Run Compose"
+      }
+    ]
+  }
