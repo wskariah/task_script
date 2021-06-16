@@ -2,19 +2,19 @@
     "data": [
       {
         "task-1": "Setup",
-        "value": "Docker"
+        "require": "Docker install"
       },
       {
         "task-2": "create",
-        "value": "Dockerfile"
+        "require": "Dockerfile"
       },
       {
         "task-3": "define",
-        "value": "services in a Compose file"
+        "require": "services in a Compose file"
       },
       {
         "task-4": "build",
-        "value": "Run Compose"
+        "require": "Run Compose"
       }
     ]
   }
